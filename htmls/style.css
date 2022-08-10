@@ -1,0 +1,23 @@
+.myrows{
+    border: 3px solid blue;
+    padding: 5px;
+}
+.mycols{
+    border: 3px solid blue;
+}
+.backgroung{
+    background-color: black;
+    padding: 5px;
+}
+.text{
+    color: white;
+}
+.card{
+    background-color: black;
+}
+.photo{
+  max-width: 10%;
+  border-radius: 150px;
+  float: left;
+  
+}
